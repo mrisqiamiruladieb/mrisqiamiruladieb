@@ -8,7 +8,11 @@
 </div>
 
 ## ✍️ Random Dev Quote
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="random dev quote" />
+</div>
 
 ---
-  [![](https://visitcount.itsvg.in/api?id=mrisqiamiruladieb&icon=3&color=3)](https://visitcount.itsvg.in)
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=mrisqiamiruladieb&icon=3&color=3" alt="profile views" />
+</div>
