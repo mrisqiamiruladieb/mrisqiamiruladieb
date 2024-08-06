@@ -2,7 +2,7 @@
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mrisqiamiruladieb&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)
-<img height="200" src="https://tenor.com/bSC9u.gif" /><br/>
+<img height="200" src="https://i.imgflip.com/65efzo.gif" /><br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mrisqiamiruladieb&theme=vue-dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrisqiamiruladieb&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
