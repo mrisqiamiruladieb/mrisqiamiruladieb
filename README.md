@@ -14,5 +14,5 @@
 
 ---
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=mrisqiamiruladieb&icon=10&color=3" alt="profile views" />
+  <img src="https://visitcount.itsvg.in/api?id=mrisqiamiruladieb&icon=3&color=3" alt="profile views" />
 </div>
