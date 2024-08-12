@@ -18,8 +18,4 @@
   <img src="https://visitcount.itsvg.in/api?id=mrisqiamiruladieb&icon=3&color=3" alt="profile views" />
 </div>
 
-###
-
 <img src="https://raw.githubusercontent.com/mrisqiamiruladieb/mrisqiamiruladieb/output/snake.svg" alt="Snake animation" />
-
-###
