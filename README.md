@@ -12,6 +12,7 @@
   <img src="https://streak-stats.demolab.com?user=mrisqiamiruladieb&locale=en&mode=daily&theme=vue-dark&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrisqiamiruladieb&radius=16&theme=vue&area=true&order=5&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
+
 ---
 
 <img src="https://raw.githubusercontent.com/mrisqiamiruladieb/mrisqiamiruladieb/output/snake.svg" alt="Snake animation" />
@@ -23,6 +24,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mrisqiamiruladieb/mrisqiamiruladieb/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mrisqiamiruladieb/mrisqiamiruladieb/output/pacman-contribution-graph.svg">
 </picture>
+
 ---
 
 <div align="center">
