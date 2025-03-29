@@ -1,7 +1,7 @@
 <!-- <h2 align="center">Hi there 👋</h2> -->
 <h2 align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Tektur&weight=600&size=28&letterSpacing=2px&duration=4500&pause=1500&color=FFFFFF&center=true&vCenter=true&width=450&height=40&lines=Hi+there+%F0%9F%91%8B;Welcome%2C+nice+to+meet+you+%F0%9F%99%8C;Hello+world+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="h2"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Tektur&weight=600&size=28&letterSpacing=2px&duration=4500&pause=1500&color=FFFFFF&center=true&vCenter=true&width=435&height=40&lines=Hi+there+%F0%9F%91%8B;Welcome%2C+nice+to+meet+you+%F0%9F%99%8C;Hello+world+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="h2"/>
   </a>
 </h2>
 
