@@ -14,19 +14,14 @@
 </div>
 
 ---
-
 <img src="https://raw.githubusercontent.com/mrisqiamiruladieb/mrisqiamiruladieb/output/snake.svg" alt="Snake animation" />
-
 ---
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mrisqiamiruladieb/mrisqiamiruladieb/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mrisqiamiruladieb/mrisqiamiruladieb/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mrisqiamiruladieb/mrisqiamiruladieb/output/pacman-contribution-graph.svg">
 </picture>
-
 ---
-
 <div align="center">
 <!--   <img src="https://visitcount.itsvg.in/api?id=mrisqiamiruladieb&icon=3&color=3" alt="profile views" /> -->
   <img src="https://profile-counter.glitch.me/mrisqiamiruladieb/count.svg?"  />
